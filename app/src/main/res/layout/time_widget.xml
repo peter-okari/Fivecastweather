@@ -79,4 +79,5 @@
         android:background="@android:color/transparent"
         android:visibility="gone"
         android:src="@drawable/ic_refresh_white_36dp" />
+
 </RelativeLayout>

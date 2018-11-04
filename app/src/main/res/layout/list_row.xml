@@ -85,5 +85,4 @@
             android:layout_alignRight="@+id/itemIcon"
             android:layout_alignEnd="@+id/itemIcon" />
     </RelativeLayout>
-
 </LinearLayout>
