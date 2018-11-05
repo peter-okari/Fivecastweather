@@ -1,3 +1,0 @@
-package com.example.okaripeterntabo.maptweather.tasks;
-
-public class TaskResult { SUCCESS, BAD_RESPONSE, IO_EXCEPTION, TOO_MANY_REQUESTS; }
